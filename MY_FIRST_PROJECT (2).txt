@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first  p</title>
+</head>
+<body>
+    <header>
+       <p> WELCOME TO MY FIRST HTML PROJECT WEBSITE </p>
+    </header>
+
+    <p><b><u> Parbinder Kaur</u></b></p>
+    <img src="image.jpeg" height="300"/>
+    <p><i>my favourite app</i></p>
+    <a href="https://www.youtube.com/" target="_main"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="youtube" height="100"></a>
+    <br >
+    <article>
+     <i>I am Parbinder Kaur B tech 4th sem student (CSE) in IK GUJRAL PUNJAB TECHNICAL UNIVERSITY
+        and i started mu journey in html it is very interesting for me to learn my HTML skills
+        for Shardha didi Apna Collage</i>
+     </i>
+     </article>
+     <aside>this is add</aside>
+     <hr>
+     <main>
+        <section>
+    <a href="experience.html"><b>experience</b></a>
+        </section>
+    <br>
+    <section>
+        <a href="education.html"><b>education</b></a>
+        <section>
+        <br>
+            <a href="projrcts.html"><b>project</b></a>
+            <section>
+    </main>
+
+
+
+</body>
+</html>
